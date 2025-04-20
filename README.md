@@ -8,6 +8,9 @@ GCP Services used:
 3. VM Instance: To Install Airflow and perform ELT
 5. Looker: For Reporting and Scheduling
 
+**Data Flow Architecture**
+![image](https://github.com/user-attachments/assets/7e15d0f1-8d9a-4233-af83-69fe61e5c1f4)
+
 **GCS Bucket Details**
 
 ![Source_GCS_Bucket_1_Million_Records_CSV_File](https://github.com/user-attachments/assets/480adcc7-6143-463c-b692-ba64998ef754)
