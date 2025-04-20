@@ -1,6 +1,7 @@
 In this Project, I have used multiple GCP services to perform ELT on Global Health data CSV file and loaded the file into GCS bucket, utilized Airflow deployed on VM instance and loaded the CSV file into Staging dataset table.
 Then transformed the data into multiple tranformed tables by splitting the raw data into multiple tables by country type.
 Lastly, created views by modifying the column names and filtering the data as per the requirements and populated view for each country table
+Resource: Vishal Bulbule resources has been used to understand and perform end to end data engineering project, Thanks Vishal for great resource
 
 GCP Services used:
 1. GCS: Google Cloud Storage
