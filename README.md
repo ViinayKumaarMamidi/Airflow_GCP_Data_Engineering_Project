@@ -31,4 +31,11 @@ GCP Services used:
 Looker PDF Report URL: https://github.com/ViinayKumaarMamidi/Airflow_GCP_Data_Engineering_Project/blob/main/India_Health_Data_Report.pdf
 
 
+**Looker Report Subscriptions/Scheduling**
+Scheduled the report to be sent daily at 4 PM EST
+
+![Looker_Report_Email_Attachment](https://github.com/user-attachments/assets/0f75fa31-a67c-4cb9-967a-c2cf0754da84)
+
+
+
 
