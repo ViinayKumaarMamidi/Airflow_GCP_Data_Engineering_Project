@@ -22,6 +22,9 @@ GCP Services used:
 
 **Complete Airflow GCS to BQ Tables and View DAG:**
 
+**Python Script URL:** https://github.com/ViinayKumaarMamidi/Airflow_GCP_Data_Engineering_Project/blob/main/Airflow_GCS_to_BQ_Tranformation_DAG_Script.py
+
+
 ![Final_GCS_Bucket_To_BigQuery_Tables_to_BigQuery_Views_Airflow_DAG_Flow](https://github.com/user-attachments/assets/25fe930a-747e-428a-927e-b02271af7ae8)
 
 **Looker Report**
