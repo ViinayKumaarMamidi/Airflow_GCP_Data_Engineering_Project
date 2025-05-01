@@ -1,9 +1,7 @@
 """
-Author: [Vishal Bulbule]
-Date: [2024-12-10]
 Purpose: This DAG script demonstrates how to load and transform data from GCS to BigQuery 
          and create country-specific tables and views for reporting. 
-         The code is featured in the YouTube video: "[Video Title]". 
+         
 
 # NOTE:
 This script contains placeholder values that you need to replace with your actual values 
@@ -23,11 +21,6 @@ to make it functional in your environment.
    - The datasets (`staging_dataset`, `transform_dataset`, `reporting_dataset`) exist in BigQuery.
 
 3. Adjust the DAG schedule and other parameters as needed for your use case.
-
-For more details, refer to the video description or comments section.
-
-DISCLAIMER:
-This code is for educational purposes only. Modify and test it thoroughly before using it in production.
 
 Happy Coding!
 """
